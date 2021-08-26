@@ -1,0 +1,10 @@
+.DS_Store
+.vscode
+node_modules
+.gitignore
+.nvmrc
+.prettierrc
+README.md
+*.lock
+*.log
+dist
